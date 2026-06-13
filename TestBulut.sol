@@ -5,3 +5,4 @@ contract AcilFon {
         bakiyeler[msg.sender] = 0;
     }
 }
+ x fdbnfdzbdfbfgb
