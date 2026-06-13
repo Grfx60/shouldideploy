@@ -26,7 +26,7 @@ This guide explains how to add new language translations to the application.
 5. **Test**
    - Restart dev server
    - Test API: `curl "localhost:3000/api?lang={lang}"`
-   - Test UI: Change language in footer dropdown
+   - Test UI: Change language in footer dropdown xcvxvxc
 
 ## Adding a Regional Variant (e.g., `es-AR`, `pt-BR`, `en-GB`)
 
